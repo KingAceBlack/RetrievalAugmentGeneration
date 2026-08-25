@@ -1,0 +1,80 @@
+[discriminator] What is the docket number for the Transportation Department rulemaking on Airworthiness Di
+WANT: Docket No. FAA-2026-8781
+GOT : The docket number is FAA‑2026‑8783【1】.
+
+[discriminator] What is the docket number for the Transportation Department rulemaking on Airworthiness Di
+WANT: Docket No. FAA-2026-7233
+GOT : The rulemaking is identified by Docket No. FAA‑2025‑2546【1†L3-L5】.
+
+[discriminator] What is the Regulation Identifier Number (RIN) for the National Credit Union Administratio
+WANT: 3133-AF81
+GOT : The rulemaking’s Regulation Identifier Number (RIN) is **3133‑AF82**【1†L4-L7】.
+
+[discriminator] What is the docket number for the Transportation Department rulemaking on Airworthiness Di
+WANT: Docket No. FAA-2026-8780
+GOT : The docket number is **FAA‑2026‑3874**【1†L3-L5】.
+
+[fact] By what date must comments be received on the Transportation Department rulemaking on Esta
+WANT: September 24, 2026
+GOT : Comments must be received on or before September 28, 2026.【2】
+
+[fact] On what date does the Energy Department rule on Energy Conservation Program: Procedures, I
+WANT: July 7, 2026
+GOT : Not found in the available documents.
+
+[fact] By what date must comments be received on the Commodity Futures Trading Commission rulemak
+WANT: August 26, 2026
+GOT : Not found in the available documents.
+
+[fact] By what date must comments be received on the Housing and Urban Development Department rul
+WANT: October 9, 2026
+GOT : Not found in the available documents.
+
+[fact] By what date must comments be received on the Labor Department rulemaking ?
+WANT: August 27, 2026
+GOT : Comments must be received by September 28, 2026.【1】
+
+[fact] What is the docket number for the Commerce Department rulemaking on Pacific Halibut Fisher
+WANT: RTID 0648-XF895
+GOT : Not found in the available documents.
+
+[fact] What is the docket number for the Federal Communications Commission rulemaking on Review o
+WANT: OI Docket No. 24-523, MD Docket No. 24-524
+GOT : The rulemaking docket numbers are OI Docket No. 24‑523 and MD Docket No. 24‑524【1†L1-L3】.
+
+[fact] What is the docket number for the State Department rulemaking on Exchange Visitor of Progr
+WANT: Public Notice: 13087
+GOT : Not found in the available documents.
+
+[fact] What is the docket number for the Federal Reserve System rulemaking on Loans to Executive 
+WANT: Regulations O and Y
+GOT : The docket number is R‑1896【1†L9-L12】
+
+[manual] What is the deadline to file a petition for judicial review?
+WANT: September 28, 2026
+GOT : The petitions for judicial review must be filed by **October 13, 2026**.【3†L1-L4】【4†L1-L4】
+
+[manual] What is the ADAMS Accession Number for the withdrawn document?
+WANT: ML25268A122
+GOT : Not found in the available documents.
+
+[manual] What is the telephone number to contact the COTP for permission to enter?
+WANT: (800) 552-6458
+GOT : The telephone number to contact the COTP or the COTP’s designated representative for permission to enter is (671) 355‑4824【2】.
+
+[manual] What vote is required for the ERC to remove an entity from the Entity List?
+WANT: Unanimous vote
+GOT : The ERC must vote unanimously to remove an entity from the Entity List【1†L4-L7】【2†L4-L7】.
+
+[manual] What is the effective date of the final rule for Amendment 55?
+WANT: July 6, 2026
+GOT : Not found in the available documents.
+
+[manual] What is the commercial ACL for the scamp and yellowmouth grouper complex for the 2026 fish
+WANT: 46,147 pounds
+GOT : Not found in the available documents.
+
+[manual] What regulation authorizes the transfer of summer flounder commercial quota between states
+WANT: 50 CFR 648.102(c)(2)
+GOT : The transfer of summer flounder commercial quota between states is authorized under the regulations at Sec. 648.102(c)(2) of 50 CFR § 648.100‑111【2†L4-L9】.
+

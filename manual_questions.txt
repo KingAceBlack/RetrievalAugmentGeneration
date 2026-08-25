@@ -1,0 +1,83 @@
+DOC: 2026-15368
+Q: After filing, how many days must pass before a complainant can file a civil action if GSA makes no finding?
+A: 180 calendar days
+
+DOC: 2026-15368
+Q: What is the maximum deferral period before a hearing must begin?
+A: 60 calendar days
+
+DOC: 2026-15368
+Q: How many days after a hearing can a deferral continue without a finding against the recipient?
+A: 30 calendar days
+
+DOC: 2026-15377
+Q: Which Rule addresses the 2015 8-hour ozone standard?
+A: Rule 3173
+
+DOC: 2026-15377
+Q: What is the deadline to file a petition for judicial review?
+A: September 28, 2026
+
+DOC: 2026-15145
+Q: What is the ADAMS Accession Number for the withdrawn document?
+A: ML25268A122
+
+DOC: 2026-15073
+Q: What is the issue number of the Airbus airworthiness limitations?
+A: 019.01
+
+DOC: 2026-17198
+Q: What is the flat wake zone distance for shorelines in Florida?
+A: 150 yards
+
+DOC: 2026-17198
+Q: How many acres does the Seashore comprise?
+A: 139,175 acres
+
+DOC: 2026-17217
+Q: What was the updated arrival date due to Tropical Storm Lala?
+A: August 19, 2026
+
+DOC: 2026-17217
+Q: What is the telephone number to contact the COTP for permission to enter?
+A: (800) 552-6458
+
+DOC: 2026-17230
+Q: What vote is required for the ERC to remove an entity from the Entity List?
+A: Unanimous vote
+
+DOC: 2026-17098
+Q: What is the telephone number for the Coast Guard Sector Boston Command Center?
+A: (857) 416-3015
+
+DOC: 2026-17098
+Q: What are the coordinates for Corner #1 of the safety zone?
+A: 42°21'41.22'' N, 071°2'22.6'' W
+
+DOC: 2026-17109
+Q: What is the effective date of the final rule for Amendment 55?
+A: July 6, 2026
+
+DOC: 2026-17109
+Q: What amendment created the new scamp and yellowmouth grouper complex?
+A: Amendment 55
+
+DOC: 2026-17109
+Q: What is the commercial ACL for the scamp and yellowmouth grouper complex for the 2026 fishing year?
+A: 46,147 pounds
+
+DOC: 2026-17113
+Q: What regulation specifies the commercial ACL and in-season accountability measure for blueline tilefish?
+A: 50 CFR 622.193(z)(1)(i)
+
+DOC: 2026-17113
+Q: What is the commercial ACL for blueline tilefish in the South Atlantic?
+A: 117,148 pounds (53,137 kilograms)
+
+DOC: 2026-17129
+Q: What regulation authorizes the transfer of summer flounder commercial quota between states?
+A: 50 CFR 648.102(c)(2)
+
+DOC: 2026-17129
+Q: How many pounds of summer flounder quota is North Carolina transferring to Massachusetts?
+A: 2,435 pounds

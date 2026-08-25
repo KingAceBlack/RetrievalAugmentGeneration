@@ -1,0 +1,30 @@
+[discriminator] What is the docket number for the Homeland Security Department rulemaking on Safety Zone f
+WANT: Docket Number USCG-2026-1030
+GOT : The docket number is USCG‑2026‑1030【1】.
+correct: True  refused: False
+
+[discriminator] By what date must comments be received on the Transportation Department rulemaking on Esta
+WANT: September 25, 2026
+GOT : Comments must be received by the following dates for the Illinois proposals:
+
+* Canton, IL – on or before September 25, 2026 [1]  
+* Havana, IL (original NPRM) – on or before September 24, 2026 [2]  
+* DeKalb, IL – on or before October 1, 2026 [3]  
+
+correct: True  refused: False
+
+[discriminator] What is the docket number for the Transportation Department rulemaking on Hazardous Materi
+WANT: Docket No. PHMSA-2025-0092 (HM-268D)
+GOT : The docket number is PHMSA‑2025‑0092 (HM‑268D)【1†L3-L5】.
+correct: True  refused: False
+
+[discriminator] What is the docket number for the Transportation Department rulemaking on Amendment of Uni
+WANT: Docket No. FAA-2026-0859
+GOT : The docket number is FAA‑2026‑0859【1†L3-L5】.
+correct: True  refused: False
+
+[discriminator] What is the docket number for the Transportation Department rulemaking on Airworthiness Di
+WANT: Docket No. FAA-2026-8781
+GOT : The docket number is FAA‑2026‑8783【1】.
+correct: False  refused: False
+
