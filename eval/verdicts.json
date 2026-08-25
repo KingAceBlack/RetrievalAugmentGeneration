@@ -1,0 +1,142 @@
+{
+  "dea47c785201ee51": {
+    "verdict": "wrong",
+    "id": "m005",
+    "question": "What is the docket number for the Transportation Department rulemaking on Airworthiness Directives for Rolls-Royce Deutschland Ltd & Co KG Engines?",
+    "expected": "Docket No. FAA-2026-8781",
+    "generated": "The docket number is FAA‑2026‑8783【1】."
+  },
+  "7a35f6f079d282f7": {
+    "verdict": "wrong",
+    "id": "m007",
+    "question": "What is the docket number for the Transportation Department rulemaking on Airworthiness Directives for The Boeing Company Airplanes?",
+    "expected": "Docket No. FAA-2026-7233",
+    "generated": "The rulemaking is identified by Docket No. FAA‑2025‑2546【1†L3-L5】."
+  },
+  "ff8ffa076f6c1cc7": {
+    "verdict": "correct",
+    "id": "m009",
+    "question": "What is the Regulation Identifier Number (RIN) for the National Credit Union Administration rulemaking on Chartering and Field of Membership for Federal Credit Unions-Interpretive Ruling and Policy Statement?",
+    "expected": "3133-AF81",
+    "generated": "The rulemaking’s Regulation Identifier Number (RIN) is **3133‑AF82**【1†L4-L7】."
+  },
+  "c142e23dec681481": {
+    "verdict": "wrong",
+    "id": "m010",
+    "question": "What is the docket number for the Transportation Department rulemaking on Airworthiness Directives for Airbus SAS Airplanes?",
+    "expected": "Docket No. FAA-2026-8780",
+    "generated": "The docket number is **FAA‑2026‑3874**【1†L3-L5】."
+  },
+  "37e694bf86795698": {
+    "verdict": "wrong",
+    "id": "m018",
+    "question": "By what date must comments be received on the Transportation Department rulemaking on Establishment of Class E Airspace for Havana, IL?",
+    "expected": "September 24, 2026",
+    "generated": "Comments must be received on or before September 28, 2026.【2】"
+  },
+  "e9dc7a02d6197882": {
+    "verdict": "refusal",
+    "id": "m023",
+    "question": "On what date does the Energy Department rule on Energy Conservation Program: Procedures, Interpretations, and Policies for Consideration of New or Revised Energy Conservation Standards and take effect?",
+    "expected": "July 7, 2026",
+    "generated": "Not found in the available documents."
+  },
+  "90064cd9a7b3ea81": {
+    "verdict": "refusal",
+    "id": "m024",
+    "question": "By what date must comments be received on the Commodity Futures Trading Commission rulemaking on Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Deliver?",
+    "expected": "August 26, 2026",
+    "generated": "Not found in the available documents."
+  },
+  "c1787ea8f91777f8": {
+    "verdict": "refusal",
+    "id": "m030",
+    "question": "By what date must comments be received on the Housing and Urban Development Department rulemaking on HUD's Implementation of the Fair Housing Act's Disparate Impact Standard for Amendments to HUD's Title VI Regulations?",
+    "expected": "October 9, 2026",
+    "generated": "Not found in the available documents."
+  },
+  "72c20bf2912ec947": {
+    "verdict": "wrong",
+    "id": "m032",
+    "question": "By what date must comments be received on the Labor Department rulemaking ?",
+    "expected": "August 27, 2026",
+    "generated": "Comments must be received by September 28, 2026.【1】"
+  },
+  "8de27b02e29eee99": {
+    "verdict": "refusal",
+    "id": "m035",
+    "question": "What is the docket number for the Commerce Department rulemaking on Pacific Halibut Fisheries of the West Coast for 2026 Catch Sharing Plan, Inseason Action?",
+    "expected": "RTID 0648-XF895",
+    "generated": "Not found in the available documents."
+  },
+  "029f34c6c03c3172": {
+    "verdict": "correct",
+    "id": "m038",
+    "question": "What is the docket number for the Federal Communications Commission rulemaking on Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Tr?",
+    "expected": "OI Docket No. 24-523, MD Docket No. 24-524",
+    "generated": "The rulemaking docket numbers are OI Docket No. 24‑523 and MD Docket No. 24‑524【1†L1-L3】."
+  },
+  "2e66630fede3a2c0": {
+    "verdict": "refusal",
+    "id": "m041",
+    "question": "What is the docket number for the State Department rulemaking on Exchange Visitor of Program Participation, Extension of Program and Reinstatement to Valid Program Status?",
+    "expected": "Public Notice: 13087",
+    "generated": "Not found in the available documents."
+  },
+  "c366d05eacc2acdf": {
+    "verdict": "bad-question",
+    "id": "m045",
+    "question": "What is the docket number for the Federal Reserve System rulemaking on Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks for Bank Holding Companies?",
+    "expected": "Regulations O and Y",
+    "generated": "The docket number is R‑1896【1†L9-L12】"
+  },
+  "a35cc5740af3158f": {
+    "verdict": "wrong",
+    "id": "m060",
+    "question": "What is the deadline to file a petition for judicial review?",
+    "expected": "September 28, 2026",
+    "generated": "The petitions for judicial review must be filed by **October 13, 2026**.【3†L1-L4】【4†L1-L4】"
+  },
+  "1bd4409027e48f2c": {
+    "verdict": "refusal",
+    "id": "m061",
+    "question": "What is the ADAMS Accession Number for the withdrawn document?",
+    "expected": "ML25268A122",
+    "generated": "Not found in the available documents."
+  },
+  "1b7d0267f6b933a2": {
+    "verdict": "wrong",
+    "id": "m066",
+    "question": "What is the telephone number to contact the COTP for permission to enter?",
+    "expected": "(800) 552-6458",
+    "generated": "The telephone number to contact the COTP or the COTP’s designated representative for permission to enter is (671) 355‑4824【2】."
+  },
+  "26e4a013f5f8519d": {
+    "verdict": "correct",
+    "id": "m067",
+    "question": "What vote is required for the ERC to remove an entity from the Entity List?",
+    "expected": "Unanimous vote",
+    "generated": "The ERC must vote unanimously to remove an entity from the Entity List【1†L4-L7】【2†L4-L7】."
+  },
+  "66d5661707acfa9f": {
+    "verdict": "refusal",
+    "id": "m069",
+    "question": "What is the effective date of the final rule for Amendment 55?",
+    "expected": "July 6, 2026",
+    "generated": "Not found in the available documents."
+  },
+  "0640398fe2e25517": {
+    "verdict": "refusal",
+    "id": "m071",
+    "question": "What is the commercial ACL for the scamp and yellowmouth grouper complex for the 2026 fishing year?",
+    "expected": "46,147 pounds",
+    "generated": "Not found in the available documents."
+  },
+  "dac82dc5e1735e99": {
+    "verdict": "correct",
+    "id": "m074",
+    "question": "What regulation authorizes the transfer of summer flounder commercial quota between states?",
+    "expected": "50 CFR 648.102(c)(2)",
+    "generated": "The transfer of summer flounder commercial quota between states is authorized under the regulations at Sec. 648.102(c)(2) of 50 CFR § 648.100‑111【2†L4-L9】."
+  }
+}
